@@ -30,13 +30,11 @@
 	<string>Main</string>
 	<key>UIRequiredDeviceCapabilities</key>
 	<array>
-		<string>armv7</string>
+		<string>arm64</string>
 	</array>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
-		<string>UIInterfaceOrientationLandscapeLeft</string>
-		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
@@ -49,5 +47,11 @@
 	<true/>
 	<key>NSCameraUsageDescription</key>
 	<string>Firewater uses your camera to scan bottle barcodes.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Firewater saves photos of bottles you've reviewed to your photo library.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Firewater lets you attach photos from your library to bottle reviews.</string>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
 </dict>
 </plist>
