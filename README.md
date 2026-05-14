@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="public/og-image.png" alt="Firewater" width="600" />
-</p>
-
-<p align="center">
   <strong>Every bottle has a story. Find yours.</strong>
 </p>
 
