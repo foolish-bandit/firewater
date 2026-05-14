@@ -1,5 +1,6 @@
-<p align="center">
-<strong>FIREWATER<strong> *(Coming Soon)*
+# FIREWATER *(Coming Soon)*
+
+*This repository is currently **pre-v0.1** and intended for evaluation, contribution, and guided demos rather than production deployment.*
 
 <p align="center">
   <strong>Every bottle has a story.</strong>
@@ -13,7 +14,9 @@
 
 <p align="center">
   Search, review, and explore 2,000+ spirits — bourbon, scotch, rye, gin, tequila, vodka, rum, mezcal, cognac, amaro, and more.<br/>
-  
+</p>
+
+  <p align="center">
   AI-powered search. Flavor radar charts. Barcode scanner. Social. Runs everywhere.
 </p>
 
