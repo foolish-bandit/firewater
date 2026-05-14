@@ -1,6 +1,6 @@
 # **FIREWATER** *(Coming Soon)*
 
-*This repository is currently **pre-v0.1** and intended for evaluation, contribution, and guided demos rather than production deployment.*
+*This repository is intended for early evaluation, contribution, and guided demos rather than production deployment.*
 
 Every bottle has a story.</strong>
 
