@@ -1,9 +1,8 @@
 <p align="center">
 # FIREWATER
-</p>
 
 <p align="center">
-  <strong>Every bottle has a story. Find yours.</strong>
+  <strong>Every bottle has a story.</strong>
 </p>
 
 <p align="center">
