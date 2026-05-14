@@ -1,24 +1,16 @@
-# FIREWATER *(Coming Soon)*
+# **FIREWATER** *(Coming Soon)*
 
 *This repository is currently **pre-v0.1** and intended for evaluation, contribution, and guided demos rather than production deployment.*
 
-<p align="center">
-  <strong>Every bottle has a story.</strong>
-</p>
+Every bottle has a story.</strong>
 
-<p align="center">
   <a href="https://firewater.app"><img src="https://img.shields.io/badge/firewater.app-live-000?style=flat-square&logo=vercel&logoColor=white" alt="Live App" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-GPL--2.0-blue?style=flat-square" alt="GPL-2.0" /></a>
   <a href="https://github.com/foolish-bandit/Firewater/stargazers"><img src="https://img.shields.io/github/stars/foolish-bandit/Firewater?style=flat-square&color=C89B3C" alt="Stars" /></a>
-</p>
 
-<p align="center">
   Search, review, and explore 2,000+ spirits — bourbon, scotch, rye, gin, tequila, vodka, rum, mezcal, cognac, amaro, and more.<br/>
-</p>
 
-  <p align="center">
-  AI-powered search. Flavor radar charts. Barcode scanner. Social. Runs everywhere.
-</p>
+  Open source database. AI-powered search. Flavor radar charts. Barcode scanner. Runs everywhere.
 
 ---
 
