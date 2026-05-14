@@ -1,5 +1,5 @@
 <p align="center">
-# FIREWATER
+<strong>FIREWATER<strong> *(Coming Soon)*
 
 <p align="center">
   <strong>Every bottle has a story.</strong>
@@ -13,6 +13,7 @@
 
 <p align="center">
   Search, review, and explore 2,000+ spirits — bourbon, scotch, rye, gin, tequila, vodka, rum, mezcal, cognac, amaro, and more.<br/>
+  
   AI-powered search. Flavor radar charts. Barcode scanner. Social. Runs everywhere.
 </p>
 
